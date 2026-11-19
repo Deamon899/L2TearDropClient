@@ -1,0 +1,2 @@
+system/ItemName-e.dat
+system/Skillgrp.dat
