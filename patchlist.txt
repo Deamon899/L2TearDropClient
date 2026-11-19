@@ -1,2 +1,5 @@
 system/ItemName-e.dat
 system/Skillgrp.dat
+system/NpcName-e.dat
+system/SystemMsg-e.dat
+system/Weapongrp.dat
