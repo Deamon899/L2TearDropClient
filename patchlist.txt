@@ -3,3 +3,8 @@ system/Skillgrp.dat
 system/NpcName-e.dat
 system/SystemMsg-e.dat
 system/Weapongrp.dat
+system/Armorgrp.dat
+system/Env.int
+system/EtcItemgrp.dat
+system/NpcString-e.dat
+system/SkillName-e.dat
