@@ -8,3 +8,7 @@ system/Env.int
 system/EtcItemgrp.dat
 system/NpcString-e.dat
 system/SkillName-e.dat
+system/Npcgrp.dat
+system/LineageMonsters_34.u
+system/LineageMonster_34.u
+system/LineageMonster_34.int
