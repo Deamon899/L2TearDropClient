@@ -13,4 +13,3 @@ system/LineageMonsters_34.u
 system/LineageMonster_34.u
 system/LineageMonster_34.int
 system/SysString-e.dat
-system/L2.ini
