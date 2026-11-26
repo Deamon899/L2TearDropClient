@@ -12,4 +12,3 @@ system/Npcgrp.dat
 system/LineageMonsters_34.u
 system/LineageMonster_34.u
 system/LineageMonster_34.int
-system/L2.ini
